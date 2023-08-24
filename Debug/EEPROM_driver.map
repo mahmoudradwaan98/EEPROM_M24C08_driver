@@ -1,0 +1,651 @@
+Archive member included because of file (symbol)
+
+f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                              f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o (exit)
+f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                              ./EEPROM_Program.o (__fixunssfsi)
+f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                              f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__subsf3)
+f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                              ./EEPROM_Program.o (__mulsf3)
+f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                              ./EEPROM_Program.o (__gtsf2)
+f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                              f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__gesf2)
+f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                              ./EEPROM_Program.o (__ltsf2)
+f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                              f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__fixsfsi)
+f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                              f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__thenan_sf)
+f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                              f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__prologue_saves__)
+f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                              f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__epilogue_restores__)
+f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                              f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o) (__do_copy_data)
+f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                              f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__pack_f)
+f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                              f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__unpack_f)
+f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                              f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o) (__fpcmp_parts_f)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+LOAD ./DIO_program.o
+LOAD ./EEPROM_Program.o
+LOAD ./I2C_Program.o
+LOAD ./main.o
+LOAD f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+LOAD f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a
+LOAD f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x18b4
+ *(.vectors)
+ .vectors       0x00000000       0x54 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+                0x00000054                . = ALIGN (0x2)
+                0x00000054                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000054        0x0 linker stubs
+ *(.trampolines*)
+                0x00000054                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000054                __ctors_start = .
+ *(.ctors)
+                0x00000054                __ctors_end = .
+                0x00000054                __dtors_start = .
+ *(.dtors)
+                0x00000054                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000054        0x0 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000054                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000054        0xc f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000060       0x16 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                0x00000060                __do_copy_data
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000076        0x8 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init9)
+ *(.text)
+ .text          0x0000007e        0x4 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x0000007e                __vector_1
+                0x0000007e                __vector_12
+                0x0000007e                __bad_interrupt
+                0x0000007e                __vector_6
+                0x0000007e                __vector_3
+                0x0000007e                __vector_11
+                0x0000007e                __vector_13
+                0x0000007e                __vector_17
+                0x0000007e                __vector_19
+                0x0000007e                __vector_7
+                0x0000007e                __vector_5
+                0x0000007e                __vector_4
+                0x0000007e                __vector_9
+                0x0000007e                __vector_2
+                0x0000007e                __vector_15
+                0x0000007e                __vector_8
+                0x0000007e                __vector_14
+                0x0000007e                __vector_10
+                0x0000007e                __vector_16
+                0x0000007e                __vector_18
+                0x0000007e                __vector_20
+ .text          0x00000082        0x0 ./DIO_program.o
+ .text          0x00000082        0x0 ./EEPROM_Program.o
+ .text          0x00000082        0x0 ./I2C_Program.o
+ .text          0x00000082        0x0 ./main.o
+ .text          0x00000082        0x0 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text          0x00000082       0x58 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                0x00000082                __fixunssfsi
+ .text          0x000000da      0x354 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                0x00000372                __subsf3
+                0x000003d4                __addsf3
+ .text          0x0000042e      0x1f4 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                0x0000042e                __mulsf3
+ .text          0x00000622       0x60 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                0x00000622                __gtsf2
+ .text          0x00000682       0x60 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                0x00000682                __gesf2
+ .text          0x000006e2       0x60 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                0x000006e2                __ltsf2
+ .text          0x00000742       0xa8 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                0x00000742                __fixsfsi
+ .text          0x000007ea        0x0 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .text          0x000007ea        0x0 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .text          0x000007ea        0x0 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .text          0x000007ea        0x0 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text          0x000007ea      0x1aa f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                0x000007ea                __pack_f
+ .text          0x00000994       0xf0 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                0x00000994                __unpack_f
+ .text          0x00000a84       0xb2 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                0x00000a84                __fpcmp_parts_f
+                0x00000b36                . = ALIGN (0x2)
+ *(.text.*)
+ .text.MCAL_DIO_u8SetPinDirection
+                0x00000b36      0x224 ./DIO_program.o
+                0x00000b36                MCAL_DIO_u8SetPinDirection
+ .text.MCAL_DIO_u8SetPortDirection
+                0x00000d5a       0x90 ./DIO_program.o
+                0x00000d5a                MCAL_DIO_u8SetPortDirection
+ .text.MCAL_DIO_u8SetPinValue
+                0x00000dea      0x224 ./DIO_program.o
+                0x00000dea                MCAL_DIO_u8SetPinValue
+ .text.MCAL_DIO_u8SetPortValue
+                0x0000100e       0x90 ./DIO_program.o
+                0x0000100e                MCAL_DIO_u8SetPortValue
+ .text.MCAL_DIO_u8GetPinValue
+                0x0000109e      0x130 ./DIO_program.o
+                0x0000109e                MCAL_DIO_u8GetPinValue
+ .text.MCAL_DIO_u8TogglePinValue
+                0x000011ce      0x116 ./DIO_program.o
+                0x000011ce                MCAL_DIO_u8TogglePinValue
+ .text.EEPROM_voidSendDataByte
+                0x000012e4      0x138 ./EEPROM_Program.o
+                0x000012e4                EEPROM_voidSendDataByte
+ .text.EEPROM_voidReadDataByte
+                0x0000141c      0x14a ./EEPROM_Program.o
+                0x0000141c                EEPROM_voidReadDataByte
+ .text.I2C_voidMasterInit
+                0x00001566       0x82 ./I2C_Program.o
+                0x00001566                I2C_voidMasterInit
+ .text.I2C_Master_u8SendSLA_Write_ACK
+                0x000015e8       0x4c ./I2C_Program.o
+                0x000015e8                I2C_Master_u8SendSLA_Write_ACK
+ .text.I2C_Master_u8WriteDataByte_ACK
+                0x00001634       0x4a ./I2C_Program.o
+                0x00001634                I2C_Master_u8WriteDataByte_ACK
+ .text.I2C_Master_u8StartCondition
+                0x0000167e       0x32 ./I2C_Program.o
+                0x0000167e                I2C_Master_u8StartCondition
+ .text.I2C_Master_u8StopCondition
+                0x000016b0       0x18 ./I2C_Program.o
+                0x000016b0                I2C_Master_u8StopCondition
+ .text.I2C_Master_u8ReadDataByte_ACK
+                0x000016c8       0x58 ./I2C_Program.o
+                0x000016c8                I2C_Master_u8ReadDataByte_ACK
+ .text.I2C_Master_u8ReadDataByte_NOTACK
+                0x00001720       0x58 ./I2C_Program.o
+                0x00001720                I2C_Master_u8ReadDataByte_NOTACK
+ .text.I2C_Master_u8ReStartCondition
+                0x00001778       0x3c ./I2C_Program.o
+                0x00001778                I2C_Master_u8ReStartCondition
+ .text.I2C_Master_u8SendSLA_Read_ACK
+                0x000017b4       0x4e ./I2C_Program.o
+                0x000017b4                I2C_Master_u8SendSLA_Read_ACK
+ .text.getStatus
+                0x00001802       0x26 ./I2C_Program.o
+                0x00001802                getStatus
+ .text.main     0x00001828       0x1a ./main.o
+                0x00001828                main
+ .text.libgcc   0x00001842        0x0 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00001842       0x38 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                0x00001842                __prologue_saves__
+ .text.libgcc   0x0000187a       0x36 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                0x0000187a                __epilogue_restores__
+ .text.libgcc   0x000018b0        0x0 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                0x000018b0                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x000018b0        0x0 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                0x000018b0                exit
+                0x000018b0                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000018b0        0x4 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x000018b4                _etext = .
+
+.data           0x00800060        0x8 load address 0x000018b4
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800060        0x0 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .data          0x00800060        0x0 ./DIO_program.o
+ .data          0x00800060        0x0 ./EEPROM_Program.o
+ .data          0x00800060        0x0 ./I2C_Program.o
+ .data          0x00800060        0x0 ./main.o
+ .data          0x00800060        0x0 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .data          0x00800060        0x0 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .data          0x00800060        0x0 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .data          0x00800060        0x0 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .data          0x00800060        0x0 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .data          0x00800060        0x0 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .data          0x00800060        0x0 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .data          0x00800060        0x0 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .data          0x00800060        0x8 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                0x00800060                __thenan_sf
+ .data          0x00800068        0x0 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .data          0x00800068        0x0 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .data          0x00800068        0x0 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .data          0x00800068        0x0 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .data          0x00800068        0x0 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .data          0x00800068        0x0 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00800068                . = ALIGN (0x2)
+                0x00800068                _edata = .
+                0x00800068                PROVIDE (__data_end, .)
+
+.bss            0x00800068        0x0
+                0x00800068                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x00800068        0x0 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .bss           0x00800068        0x0 ./DIO_program.o
+ .bss           0x00800068        0x0 ./EEPROM_Program.o
+ .bss           0x00800068        0x0 ./I2C_Program.o
+ .bss           0x00800068        0x0 ./main.o
+ .bss           0x00800068        0x0 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .bss           0x00800068        0x0 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .bss           0x00800068        0x0 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .bss           0x00800068        0x0 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .bss           0x00800068        0x0 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .bss           0x00800068        0x0 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .bss           0x00800068        0x0 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .bss           0x00800068        0x0 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .bss           0x00800068        0x0 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .bss           0x00800068        0x0 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .bss           0x00800068        0x0 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .bss           0x00800068        0x0 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00800068        0x0 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .bss           0x00800068        0x0 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .bss           0x00800068        0x0 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ *(.bss*)
+ *(COMMON)
+                0x00800068                PROVIDE (__bss_end, .)
+                0x000018b4                __data_load_start = LOADADDR (.data)
+                0x000018bc                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800068        0x0
+                0x00800068                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00800068                PROVIDE (__noinit_end, .)
+                0x00800068                _end = .
+                0x00800068                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x238
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x48 ./DIO_program.o
+ .debug_aranges
+                0x00000048       0x28 ./EEPROM_Program.o
+ .debug_aranges
+                0x00000070       0x68 ./I2C_Program.o
+ .debug_aranges
+                0x000000d8       0x20 ./main.o
+ .debug_aranges
+                0x000000f8       0x20 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_aranges
+                0x00000118       0x20 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_aranges
+                0x00000138       0x20 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_aranges
+                0x00000158       0x20 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_aranges
+                0x00000178       0x20 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_aranges
+                0x00000198       0x20 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_aranges
+                0x000001b8       0x20 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_aranges
+                0x000001d8       0x20 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_aranges
+                0x000001f8       0x20 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_aranges
+                0x00000218       0x20 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_pubnames
+                0x00000000      0x3dd
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0xc1 ./DIO_program.o
+ .debug_pubnames
+                0x000000c1       0x4a ./EEPROM_Program.o
+ .debug_pubnames
+                0x0000010b      0x147 ./I2C_Program.o
+ .debug_pubnames
+                0x00000252       0x1b ./main.o
+ .debug_pubnames
+                0x0000026d       0x23 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_pubnames
+                0x00000290       0x2c f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_pubnames
+                0x000002bc       0x1f f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_pubnames
+                0x000002db       0x1e f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_pubnames
+                0x000002f9       0x1e f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_pubnames
+                0x00000317       0x1e f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_pubnames
+                0x00000335       0x20 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_pubnames
+                0x00000355       0x22 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_pubnames
+                0x00000377       0x1f f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_pubnames
+                0x00000396       0x21 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_pubnames
+                0x000003b7       0x26 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_info     0x00000000     0x24c3
+ *(.debug_info)
+ .debug_info    0x00000000      0x2cd ./DIO_program.o
+ .debug_info    0x000002cd      0x203 ./EEPROM_Program.o
+ .debug_info    0x000004d0      0x318 ./I2C_Program.o
+ .debug_info    0x000007e8       0x92 ./main.o
+ .debug_info    0x0000087a       0xb1 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_info    0x0000092b      0x47a f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_info    0x00000da5      0x485 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_info    0x0000122a      0x27f f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_info    0x000014a9      0x27f f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_info    0x00001728      0x27f f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_info    0x000019a7      0x2b0 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_info    0x00001c57      0x12c f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_info    0x00001d83      0x2df f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_info    0x00002062      0x251 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_info    0x000022b3      0x210 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000     0x11c3
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0xa6 ./DIO_program.o
+ .debug_abbrev  0x000000a6       0xed ./EEPROM_Program.o
+ .debug_abbrev  0x00000193       0xee ./I2C_Program.o
+ .debug_abbrev  0x00000281       0x57 ./main.o
+ .debug_abbrev  0x000002d8       0x5d f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_abbrev  0x00000335      0x1ea f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_abbrev  0x0000051f      0x21b f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_abbrev  0x0000073a      0x15a f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_abbrev  0x00000894      0x15a f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_abbrev  0x000009ee      0x15a f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_abbrev  0x00000b48      0x17f f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_abbrev  0x00000cc7       0xad f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_abbrev  0x00000d74      0x1c0 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_abbrev  0x00000f34      0x154 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_abbrev  0x00001088      0x13b f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_line     0x00000000     0x17e2
+ *(.debug_line)
+ .debug_line    0x00000000      0x360 ./DIO_program.o
+ .debug_line    0x00000360      0x2ed ./EEPROM_Program.o
+ .debug_line    0x0000064d      0x368 ./I2C_Program.o
+ .debug_line    0x000009b5       0x80 ./main.o
+ .debug_line    0x00000a35       0xa7 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_line    0x00000adc      0x2af f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_line    0x00000d8b      0x239 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_line    0x00000fc4       0xd3 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_line    0x00001097       0xd3 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_line    0x0000116a       0xd3 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_line    0x0000123d      0x109 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_line    0x00001346       0x90 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_line    0x000013d6      0x18a f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_line    0x00001560      0x14b f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_line    0x000016ab      0x137 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_frame    0x00000000      0x2d0
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x70 ./DIO_program.o
+ .debug_frame   0x00000070       0x30 ./EEPROM_Program.o
+ .debug_frame   0x000000a0       0xb0 ./I2C_Program.o
+ .debug_frame   0x00000150       0x20 ./main.o
+ .debug_frame   0x00000170       0x20 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_frame   0x00000190       0x40 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_frame   0x000001d0       0x20 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_frame   0x000001f0       0x20 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_frame   0x00000210       0x20 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_frame   0x00000230       0x20 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_frame   0x00000250       0x20 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_frame   0x00000270       0x20 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_frame   0x00000290       0x20 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_frame   0x000002b0       0x20 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_str      0x00000000      0x855
+ *(.debug_str)
+ .debug_str     0x00000000      0x22d ./DIO_program.o
+                                0x255 (size before relaxing)
+ .debug_str     0x0000022d       0xe0 ./EEPROM_Program.o
+                                0x18c (size before relaxing)
+ .debug_str     0x0000030d      0x2fb ./I2C_Program.o
+                                0x38e (size before relaxing)
+ .debug_str     0x00000608        0xf ./main.o
+                                 0xb8 (size before relaxing)
+ .debug_str     0x00000617       0x80 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                                 0xfe (size before relaxing)
+ .debug_str     0x00000697      0x13d f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                                0x206 (size before relaxing)
+ .debug_str     0x000007d4       0x27 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                                0x1bf (size before relaxing)
+ .debug_str     0x000007fb        0xf f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x0000080a        0x8 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000812        0x8 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x0000081a        0xa f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                                0x19e (size before relaxing)
+ .debug_str     0x00000000      0x103 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_str     0x00000824       0x16 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                                0x19d (size before relaxing)
+ .debug_str     0x0000083a        0xb f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                                0x17f (size before relaxing)
+ .debug_str     0x00000845       0x10 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                                0x163 (size before relaxing)
+
+.debug_loc      0x00000000      0x7ce
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x34 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_loc     0x00000034      0x32a f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_loc     0x0000035e      0x104 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_loc     0x00000462       0x3c f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_loc     0x0000049e       0x3c f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_loc     0x000004da       0x3c f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_loc     0x00000516       0x7e f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_loc     0x00000594      0x13e f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_loc     0x000006d2       0xac f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_loc     0x0000077e       0x50 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(EEPROM_driver.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x00000000      0x128
+ .debug_ranges  0x00000000       0x40 ./DIO_program.o
+ .debug_ranges  0x00000040       0x20 ./EEPROM_Program.o
+ .debug_ranges  0x00000060       0x60 ./I2C_Program.o
+ .debug_ranges  0x000000c0       0x18 ./main.o
+ .debug_ranges  0x000000d8       0x50 f:/embedded/embedded material/material imtschool/00- tools/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
